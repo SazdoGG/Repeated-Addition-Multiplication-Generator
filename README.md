@@ -1,4 +1,3 @@
-# Repeated-Addition-Multiplication-Generator<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
